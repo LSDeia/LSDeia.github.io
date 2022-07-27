@@ -105,22 +105,31 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search"
+weight = 1
+
+[[menu.main]]
 identifier = "categories"
 name = "Categories"
 url = "/categories/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about"
-weight = 3
+weight = 4
 
 [markup.highlight]
 noClasses = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
