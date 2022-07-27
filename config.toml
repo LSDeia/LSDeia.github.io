@@ -1,4 +1,4 @@
-baseURL = "https://lsdeia.github.io/"
+baseURL = "https://lsdeia.github.io"
 title = "Cactuss"
 paginate = 5
 theme = "PaperMod"
