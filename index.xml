@@ -8,17 +8,7 @@
       <url>https://lsdeia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lsdeia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://lsdeia.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My 1st post</title>
-      <link>https://lsdeia.github.io/post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://lsdeia.github.io/post/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://lsdeia.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Cactuss</title>
       <link>https://lsdeia.github.io/about/</link>
@@ -30,6 +20,7 @@ How ? with hugo (static website builder) and the PaperMod theme.
 Inspiration ? notion is an amazing website which allows you to takes notes on pretty much anything, i used to takes notes on notion.
 Usefull links for this project Twemoji, all emojis on Cactuss are twemoji that i downloaded from favicon. Markdown doc, all you have to know about markdown. Github repo, here you can access all files from Cactuss.</description>
     </item>
+    
     
     <item>
       <title>Websites</title>
