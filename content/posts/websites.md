@@ -2,7 +2,7 @@
 title=  "Websites"
 author= "RemRem"
 date= "January 1, 1971"
-categories = ["Internet"]
+categories = ["Web","Bookmarks"]
 tags = ["Tree","Water","Fire","Wind"]
 Summary = "A list of my websites bookmark"
 +++
