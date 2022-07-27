@@ -106,7 +106,7 @@ SiteVerificationTag = "XYZabc"
 
 [[menu.main]]
 identifier = "search"
-name = "Search"
+name = "🔍"
 url = "/search"
 weight = 1
 
