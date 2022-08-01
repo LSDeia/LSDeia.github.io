@@ -105,12 +105,6 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "search"
-name = "🔍"
-url = "/search"
-weight = 1
-
-[[menu.main]]
 identifier = "categories"
 name = "Categories"
 url = "/categories/"
@@ -130,6 +124,3 @@ weight = 4
 
 [markup.highlight]
 noClasses = false
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
