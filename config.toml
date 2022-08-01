@@ -69,7 +69,10 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
+  Title = """
+  Hi there 👋
+
+  It's Summer Time 🏖️"""
   Content = "Welcome to Cactuss 🌵"
 
   [[params.socialIcons]]
