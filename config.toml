@@ -72,7 +72,7 @@ tocopen = false
   Title = """
   Hi there 👋
 
-  It's Autumn 🍂""
+  It's Autumn 🍂"""
   Content = "Welcome to Cactuss 🌵"
 
   [[params.socialIcons]]
