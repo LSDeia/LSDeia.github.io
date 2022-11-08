@@ -10,15 +10,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://lsdeia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>💩</title>
-      <link>https://lsdeia.github.io/posts//</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lsdeia.github.io/posts//</guid>
-      <description>Test page for emoji markdown file title</description>
-    </item>
-    
-    <item>
       <title>Websites</title>
       <link>https://lsdeia.github.io/posts/websites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
